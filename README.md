@@ -40,7 +40,7 @@ Reza Alipour - 98105932
 <img width="1139" alt="Screenshot 1402-03-15 at 23 06 19" src="https://github.com/Reza-Alipour/SE_Lab9/assets/56475612/8f1be2c8-b5f6-46bb-897d-e3b89c6f550e">
 
 <p dir="rtl"  style='text-align: right;'>
-  در دو تصویر زیر همانطور که خواسته شده خروجی دو دستور docker ps و docker image ls نمایش داده شده است. با استفاده از دستور docker ps می‌توان دو container مربوط به میکروسرویس‌ها را می‌توان مشاهده کرد که در حال اجرا هستند همچنین با استفاده از دستور dockeer image ls تمامی image هایی که برای این دو میکروسرویس ساخته شده و یا pull شده‌اند نیز قابل مشاهده هستند. 
+  در دو تصویر زیر همانطور که خواسته شده خروجی دو دستور docker ps و docker image ls نمایش داده شده است. با استفاده از دستور docker ps می‌توان دو container مربوط به میکروسرویس‌ها را می‌توان مشاهده کرد که در حال اجرا هستند همچنین با استفاده از دستور docker image ls تمامی image هایی که برای این دو میکروسرویس ساخته شده و یا pull شده‌اند نیز قابل مشاهده هستند. 
 </p>
 <img width="1139" alt="Screenshot 1402-03-15 at 23 09 10" src="https://github.com/Reza-Alipour/SE_Lab9/assets/56475612/9e389c82-614a-47ad-8b98-d31e33bf1eb2">
 
@@ -49,8 +49,7 @@ Reza Alipour - 98105932
 </p>
 <img width="770" alt="Screenshot 1402-03-15 at 23 13 42" src="https://github.com/Reza-Alipour/SE_Lab9/assets/56475612/469f95e3-a6aa-4061-8f20-a637fe44041c">
 <img width="770" alt="Screenshot 1402-03-15 at 23 07 57" src="https://github.com/Reza-Alipour/SE_Lab9/assets/56475612/b017f99d-8865-47ae-8a7d-e5d2d486ec7c">
-<img width="770" alt="Screenshot 1402-03-15 at 23 07 35" src="https://github.com/Reza-Alipour/SE_Lab9/assets/56475612/93dde531-70e0-4892-976f-a4dc648f77a8">
-
+<img width="770" alt="Screenshot 1402-03-15 at 23 13 56" src="https://github.com/Reza-Alipour/SE_Lab9/assets/56475612/332576f5-f566-4df7-974a-48fb9362ae41">
 <p dir="rtl"  style='text-align: right;'>
   در دو تصویر زیر نیز با استفاده از postman سعی کردیم میکروسرویس دوم را تست کنیم. در پاسخ این درخواست‌ها قیمت دو توکن به دلار برگردانده شده و همچنین مشخص شده به ازای مقداری از توکن اول کاربر می‌تواند چه مقدار توکن دوم را دریافت کند.
 </p>
