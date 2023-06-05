@@ -1,0 +1,22 @@
+version: '2'
+
+services:
+  project_a:
+    build:
+      context: ./PriceMicroservice
+    container_name: PriceService
+    ports:
+      - "8001:8001"
+    networks:
+      - my_network
+
+  project_b:
+    build:
+      context: ./TokenConvertorMicroservice
+    ports:
+      - "8002:8002"
+    networks:
+      - my_network
+
+networks:
+  my_network:
